@@ -48,7 +48,7 @@ which it operates.
 The UI logic receives info from the Collator, and updates the screen. It also listens for
 input from the user via keyboard to either reset the sites counters, or to quit.
 
-Possible uture enhancements:
+Possible future enhancements:
 
 The hard-coded numbers could be configured via a configuration file
 
